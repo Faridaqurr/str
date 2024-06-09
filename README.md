@@ -2,8 +2,6 @@
 Anggota Kelompok :
 |  NRP|Nama Anggota  |
 |--|--|
-|....|....|
-|....|....|
 |5027231038|Dani Wahyu Anak Ary|
 
 Proyek ini mengimplementasikan sistem manajemen rute kereta api menggunakan struktur data graf di C++. Sistem ini memungkinkan pengguna untuk mengelola kota (node) dan rute kereta api (edge) di antara mereka, serta menyediakan fungsionalitas untuk menemukan rute terpendek dan semua rute yang mungkin antara dua kota.
